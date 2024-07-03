@@ -45,3 +45,4 @@ msbuild.wrn
 api/appsettings.json
 .vs
 api/appsettings.json
+api/Properties/
